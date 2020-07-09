@@ -2,7 +2,7 @@
 
 I’m eGluZl. 😄
 
-I wrote Java and fornt-end. 
+I write Java and fornt-end. 
 
 I’m currently learning Rust. 🌱
 
