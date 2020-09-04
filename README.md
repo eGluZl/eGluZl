@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![http-bw][http-bw]
-[http-bw]:https://wakatime.com/share/@eGluZl/cc3b3b1e-77ce-46fb-a71c-cc521f522f26.svg
 
+![WakaTime](https://wakatime.com/share/@eGluZl/cc3b3b1e-77ce-46fb-a71c-cc521f522f26.svg)
