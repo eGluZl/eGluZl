@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure><embed src="https://wakatime.com/share/@eGluZl/52dde922-64a2-44c1-92f0-cd04f71497f7.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@eGluZl/8b755e2e-214c-4f17-b651-b27c1e276539.png" /></a>
